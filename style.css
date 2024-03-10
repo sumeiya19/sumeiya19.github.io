@@ -1,1 +1,33 @@
+body{
+  background-color: #ADD8E6;
+  color: #444444;
+  font-family: Times New Roman, Helvetica, sans-serif;
+  margin: 10% 20%;
+}
 
+.exp-header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 1px solid #444444;
+  border-bottom: 1px solid #444444;
+  margin: 0;
+  padding:5px;
+  background-color: #D3D3D3
+  
+}
+
+.exp-header {
+  .grid-container 
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #7ed4e6;
+  padding: 15px;
+
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+
+}
